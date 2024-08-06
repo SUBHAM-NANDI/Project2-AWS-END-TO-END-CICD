@@ -5,6 +5,7 @@ env:
     DOCKER_REGISTRY_USERNAME: /myapp/docker-credentials/username #this consists the username of Docker Hub
     DOCKER_REGISTRY_PASSWORD: /myapp/docker-credentials/password #this consists the password of Docker Hub
     DOCKER_REGISTRY_URL: /myapp/docker-registry/url #this consists the location/url(docker.io) of Docker Hub
+    #hi
 phases:
   install:
     runtime-versions:
